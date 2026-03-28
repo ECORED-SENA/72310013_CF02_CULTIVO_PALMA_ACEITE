@@ -3,7 +3,7 @@ export default {
     Name:
       'Cultivo de palma de aceite: mantenimiento del cultivo y cosecha del fruto.',
     Description:
-      'En este componente formativo el aprendiz conocerá cómo realizar control de malezas, manejo integrado de plagas y enfermedades, nutrición, riego y poda, así como los criterios de madurez, frecuencia de cosecha, herramientas, pronósticos de producción y sistemas de transporte. Además, incluyen descripciones de plagas, enfermedades y prácticas para garantizar productividad, calidad del fruto y sostenibilidad del cultivo.',
+      'En este componente formativo, el aprendiz conocerá cómo realizar control de malezas, manejo integrado de plagas y enfermedades, nutrición, riego y poda, así como los criterios de madurez, frecuencia de cosecha, herramientas, pronósticos de producción y sistemas de transporte. Además, incluyen descripciones de plagas, enfermedades y prácticas para garantizar productividad, calidad del fruto y sostenibilidad del cultivo.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -395,9 +395,9 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Johanna Gómez',
+          nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Líder del Ecosistema',
-          centro: 'Dirección General',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Olga Constanza Bermúdez',

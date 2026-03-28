@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 1
-      h1 Mantenimiento del Cultivo de Palma de Aceite     
+      h1 Mantenimiento del cultivo de palma de aceite     
     .row.bg-color-10
       .col-12
         .p-5
@@ -66,7 +66,7 @@
                             img(src="@/assets/curso/tema1/slide1_06.png")
                         .col-lg-7.order-1.mb-3.mb-lg-0
                           h4 Importancia del control integral de malezas
-                          p Durante las etapas iniciales del cultivo es indispensable implementar un programa adecuado de control de malezas tanto en los platos como en las interlíneas. Un manejo deficiente puede afectar seriamente el desarrollo de las palmas y reducir su potencial productivo durante todo el ciclo vegetativo, impactando negativamente la producción futura.
+                          p Durante las etapas iniciales del cultivo, es indispensable implementar un programa adecuado de control de malezas, tanto en los platos como en las interlíneas. Un manejo deficiente puede afectar seriamente el desarrollo de las palmas y reducir su potencial productivo durante todo el ciclo vegetativo, impactando negativamente la producción futura.
           //- Fin Carrusel
     p(data-aos="fade-left") Debido a la importancia que tiene el control de malezas en el cultivo de palma de aceite, a continuación, se presentan los diferentes tipos de control que se implementan.
     //- Pestanas horizontales
@@ -79,7 +79,7 @@
                   img(src='@/assets/curso/tema1/pestana1_01.png', alt='')
               .col-md-6.mb-4.mb-md-0
                 h4 Control en plato
-                p El plateo es una práctica esencial que mantiene libre de malezas el área alrededor de la palma, favoreciendo su crecimiento y el aprovechamiento de fertilizantes. Inicialmente se realiza de forma manual y luego puede aplicarse control químico, según la edad del cultivo y las condiciones ambientales.
+                p El plateo es una práctica esencial que mantiene libre de malezas el área alrededor de la palma, favoreciendo su crecimiento y el aprovechamiento de fertilizantes. Inicialmente, se realiza de forma manual y luego puede aplicarse control químico, según la edad del cultivo y las condiciones ambientales.
           .py-3.py-md-4(titulo="Control en interlíneas")
             .row
               .col-md-6.mb-4.mb-md-0
@@ -272,7 +272,7 @@
           img.titulo-con-imagen__imagen(src="@/assets/curso/tema1/imagen-titulos.svg")
           h3.titulo-con-imagen__texto Etapas del manejo (Prevención, Observación, Aplicación)
     //- Título con imagen
-    p(data-aos="fade-left") Seguidamente se presenta las etapas fundamentales del manejo integrado de plagas y enfermedades aplicadas al cultivo de palma de aceite.
+    p(data-aos="fade-left") Seguidamente se presentan las etapas fundamentales del manejo integrado de plagas y enfermedades aplicadas al cultivo de palma de aceite.
     //- Inicio Tarjetas
     .row.justify-content-center      
       .col-sm-10.col-md-6.col-lg-4.mb-4.d-flex.flex-column
@@ -311,140 +311,140 @@
     //- Inicio Accordion
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
       .row(titulo="Barrenador de raíces (<i>Sagalassa valida</i>)")
-          .col-lg-10.ps-lg-5.mb-4.mb-md-0s  
-            ul.lista-ul
+          .col-lg-10.ps-lg-5.mb-4.ps-lg-5
+            ul.lista-ul.ms-4
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Larvas:</b> blanco hialino, con 20 mm de largo (2 cm). 
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Larvas:</b> blanco hialino, con 20 mm de largo (2 cm). 
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Pupas:</b> tipo obtecta con los apéndices adheridos al cuerpo. Son marrón claro. 
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Pupas:</b> tipo obtecta con los apéndices adheridos al cuerpo. Son marrón claro. 
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Ciclo biológico:</b> Huevo: 7 – 9 días.  Larva: 50 – 55 días. Pupa: 18 – 21 días. Total: 75 – 85 días.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Ciclo biológico:</b> huevo: (7–9 días), larva (50–55 días), pupa (18–21 días), total (75–85 días).
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Daños:</b> La larva ataca las raíces de la palma, reduciendo la absorción de nutrientes y el anclaje, causando crecimiento lento, amarillamiento de hojas y disminución del tamaño y peso de los racimos.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Daños:</b> la larva ataca las raíces de la palma, reduciendo la absorción de nutrientes y el anclaje, causando crecimiento lento, amarillamiento de hojas y disminución del tamaño y peso de los racimos.
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Control:</b> Aporque con tusas, raquis fibra, hojas o residuos de hierbas, es decir en el plato, como barrera física impidiendo el ingreso de las larvas a las raíces.              
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Control:</b> aporque con tusas, raquis, fibra, hojas o residuos de hierbas, es decir, en el plato, como barrera física, impidiendo el ingreso de las larvas a las raíces.              
           .col-lg-2
             figure
                 img(src='@/assets/curso/tema1/acordion1_01.png', alt='' style="width: 150px")
       .row(titulo="Cucarrón torito (<i>Strategus aloeus</i>)")
-          .col-lg-10.ps-lg-5.mb-4.mb-md-0s  
-            ul.lista-ul
+          .col-lg-10.ps-lg-5.mb-4.mb-md-0s.ps-lg-5
+            ul.lista-ul.ms-4
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Ciclo biológico:</b> Huevo: 14,5 días. Larva: 266,5 días. Pupa: 26,8 días. Total: 307,8 días.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Ciclo biológico:</b> huevo: (14,5 días), larva (266,5 días), pupa (26,8 días), total (307,8 días).
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Larvas:</b> forma de C, tres pares de patas; color blanco con café rojizo. Al inicio miden 10,6 mm de largo y al final del tercer estadio mide 80,3 mm de longitud. 
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Larvas:</b> forma de C, tres pares de patas; color blanco con café rojizo. Al inicio miden 10,6 mm de largo y al final del tercer estadio mide 80,3 mm de longitud. 
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Pupas:</b> inicia de color naranja y se va oscureciendo a medida que se aproxima la adultez. 
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Pupas:</b> inicia de color naranja y se va oscureciendo a medida que se aproxima la adultez. 
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Adultos:</b> coleópteros, de color negro, que mide entre 4,0 y 5,8 cm de largo; el macho posee tres protuberancias como cuernos en el tórax; la hembra carece de ellas; el macho es más grande que la hembra.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Adultos:</b> coleópteros, de color negro, que mide entre 4,0 y 5,8 cm de largo; el macho posee tres protuberancias como cuernos en el tórax; la hembra carece de ellas; el macho es más grande que la hembra.
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Daños:</b> El daño es causado por adultos que perforan el bulbo de palmas jóvenes para alimentarse y reproducirse, afectando el meristemo y facilitando la entrada de microorganismos que provocan enfermedades en el estípite.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Daños:</b> el daño es causado por adultos que perforan el bulbo de palmas jóvenes para alimentarse y reproducirse, afectando el meristemo y facilitando la entrada de microorganismos que provocan enfermedades en el estípite.
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Control:</b> Realizar monitoreos periódicos, eliminar sitios de reproducción y aplicar control biológico o químico según recomendaciones técnicas, promoviendo además la protección de enemigos naturales de la plaga.            
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Control:</b> realizar monitoreos periódicos, eliminar sitios de reproducción y aplicar control biológico o químico según recomendaciones técnicas, promoviendo además la protección de enemigos naturales de la plaga.            
           .col-lg-2
             figure
                 img(src='@/assets/curso/tema1/acordion1_02.png', alt='' style="width: 150px")
       .row(titulo="Cucarrón o picudo negro (<i>Rhynchophorus palmarum</i>)")
-          .col-lg-10.ps-lg-5.mb-4.mb-md-0s  
-            ul.lista-ul
+          .col-lg-10.ps-lg-5.mb-4.mb-md-0s.ps-lg-5
+            ul.lista-ul.ms-4
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Ciclo biológico:</b>  Huevo: 3 – 5 días.  Larva: 50 – 70 días. Pupa:  24 días. Total:  77 – 99 días.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Ciclo biológico:</b>  huevo: (3–5 días.), larva (50–70 días), pupa (24 días), total (77–99 días).
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Larvas:</b> cuerpo muy segmentado de 4,5 a 6 cm, presenta 8 estadios, color marrón. 
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Larvas:</b> cuerpo muy segmentado de 4,5 a 6 cm, presenta 8 estadios, color marrón. 
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Pupas:</b> color blanco crema y luego se torna café rojizo; se forma dentro de un cocón de una longitud de 8,7 cm por 3,5 cm de ancho, en promedio, fabricado por la larva con fibras del tejido del tallo de la palma. 
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Pupas:</b> color blanco crema y luego se torna café rojizo; se forma dentro de un cocón de una longitud de 8,7 cm por 3,5 cm de ancho, en promedio, fabricado por la larva con fibras del tejido del tallo de la palma. 
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Adultos:</b> picudo de color negro, gran tamaño (3 – 6 cm), los machos son más pequeños que las hembras. Se ocultan en las axilas de las hojas. 
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Adultos:</b> picudo de color negro, gran tamaño (3–6 cm); los machos son más pequeños que las hembras. Se ocultan en las axilas de las hojas. 
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Daños:</b> Las larvas perforan el estípite y el cogollo, dañan el meristemo y pueden causar la muerte de la palma, además de transmitir el nemátodo causante del anillo rojo.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Daños:</b> las larvas perforan el estípite y el cogollo, dañan el meristemo y pueden causar la muerte de la palma, además de transmitir el nemátodo causante del anillo rojo.
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Control:</b> Evitar heridas en las palmas, proteger los cortes de poda y establecer trampas para capturar adultos, especialmente en épocas secas cuando aumenta la población del picudo.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Control:</b> evitar heridas en las palmas, proteger los cortes de poda y establecer trampas para capturar adultos, especialmente en épocas secas cuando aumenta la población del picudo.
           .col-lg-2
             figure
                 img(src='@/assets/curso/tema1/acordion1_03.png', alt='' style="width: 150px")
       .row(titulo="Gusano de la palma (<i>Brassolis sophorae</i>)")
-          .col-lg-10.ps-lg-5.mb-4.mb-md-0s  
-            ul.lista-ul
+          .col-lg-10.ps-lg-5.mb-4.mb-md-0s.ps-lg-5  
+            ul.lista-ul.ms-4
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Ciclo biológico:</b> Huevos: 20 – 25 días. Larvas: 50 – 85 días. Pupas: 11 – 15 días. Total: 81 - 125 días.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Ciclo biológico:</b> huevo: (20-25 días.), larva (50–85 días), pupas (11-15 días), total (81-125 días).
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Larvas:</b> Son larvas gregarias y nocturnas que se refugian en nidos de seda entre los folíolos; alcanzan hasta 8 cm, presentan color pardo rojizo con bandas claras y cabeza grande color vino tinto.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Larvas:</b> son larvas gregarias y nocturnas que se refugian en nidos de seda entre los folíolos; alcanzan hasta 8 cm, presentan color pardo rojizo con bandas claras y cabeza grande color vino tinto.
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Pupas:</b> son grandes, robustas y convexas, con bandas longitudinales amarillo pálido; se localizan sobre las bases peciolares de las hojas, sobre el estípite o sobre arvenses. 
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Pupas:</b> son grandes, robustas y convexas, con bandas longitudinales amarillo pálido; se localizan sobre las bases peciolares de las hojas, sobre el estípite o sobre arvenses. 
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Adultos:</b> lepidópteros grandes, de 7 a 10 cm de envergadura alar; las alas son marrones, y presentan tres ocelos negros y marrón en la parte inferior de las alas traseras. Son de hábito crepuscular.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Adultos:</b> lepidópteros grandes, de 7 a 10 cm de envergadura alar; las alas son marrones, y presentan tres ocelos negros y marrón en la parte inferior de las alas traseras. Son de hábito crepuscular.
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Daños:</b> las larvas atacan agresivamente las hojas, pues consumen individualmente entre 500 a 600 cm² de área foliar, el ataque se inicia en palma joven, en todos los niveles y puede defoliar una palma en pocos días.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Daños:</b> las larvas atacan agresivamente las hojas, pues consumen individualmente entre 500 a 600 cm² de área foliar, el ataque se inicia en palma joven, en todos los niveles y puede defoliar una palma en pocos días.
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Control:</b> Control mediante recolección de nidos y pupas, uso del hongo Beauveria bassiana y aprovechamiento de enemigos naturales que parasitan huevos, larvas y pupas para reducir la población.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Control:</b> control mediante recolección de nidos y pupas, uso del hongo Beauveria bassiana y aprovechamiento de enemigos naturales que parasitan huevos, larvas y pupas para reducir la población.
           .col-lg-2
             figure
                 img(src='@/assets/curso/tema1/acordion1_04.png', alt='' style="width: 150px")
       .row(titulo="Gusano cabrito (<i>Opsiphanes cassina</i>)")
-          .col-lg-10.ps-lg-5.mb-4.mb-md-0s  
-            ul.lista-ul
+          .col-lg-10.ps-lg-5.mb-4.mb-md-0s.ps-lg-5  
+            ul.lista-ul.ms-4
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Ciclo biológico:</b>  Huevos: 8 – 10 días. Larvas: 36 – 47 días. Pupas: 59 – 77 días.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Ciclo biológico:</b> huevo: (8-10 días.), larvas (36-47 días), pupas (59-77 días).
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Larvas:</b> son grandes de 6 a 9 cm, con dos apéndices cefálicos a manera de cuernos y dos apéndices caudales tipo aguja; son verdes con bandas dorsales longitudinales amarillas; en su último estadio, su color es café y una banda dorsal longitudinal verde amarillenta; se ubican en el envés de los folíolos. 
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Larvas:</b> son grandes de 6 a 9 cm, con dos apéndices cefálicos a manera de cuernos y dos apéndices caudales tipo aguja; son verdes con bandas dorsales longitudinales amarillas; en su último estadio, su color es café y una banda dorsal longitudinal verde amarillenta; se ubican en el envés de los folíolos. 
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Pupas:</b> de 30 mm de longitud, en promedio; se forman sobre las plantas epifitas que creen en el estípite. 
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Pupas:</b> de 30 mm de longitud, en promedio; se forman sobre las plantas epífitas que crecen en el estípite. 
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Adultos:</b> lepidóptero, de hábito diurno. La hembra oviposita individualmente o en pequeños grupos en el envés de los folíolos y cerca al raquis de las hojas; tiene una envergadura alar de 7,2 cm y el macho de 6 cm; las alas anteriores son de color café con una banda anaranjada en forma de “y”.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Adultos:</b> lepidóptero, de hábito diurno. La hembra oviposita individualmente o en pequeños grupos en el envés de los folíolos y cerca del raquis de las hojas; tiene una envergadura alar de 7,2 cm y el macho de 6 cm; las alas anteriores son de color café con una banda anaranjada en forma de “y”.
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Daños:</b> Las larvas devoran el follaje, preferencialmente la parte superior de la palma. Una larva alcanza a consumir de 700 a 800 cm² de follaje durante su vida, dejando solo la nervadura central de cada folíolo.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Daños:</b> las larvas devoran el follaje, preferencialmente la parte superior de la palma. Una larva alcanza a consumir de 700 a 800 cm² de follaje durante su vida, dejando solo la nervadura central de cada folíolo.
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Control:</b> Fomentar enemigos naturales mediante plantas nectaríferas, usar trampas con material fermentado, realizar recolección manual de larvas y pupas, y aplicar baculovirus como control biológico.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Control:</b> fomentar enemigos naturales mediante plantas nectaríferas, usar trampas con material fermentado, realizar recolección manual de larvas y pupas, y aplicar baculovirus como control biológico.
           .col-lg-2
             figure
                 img(src='@/assets/curso/tema1/acordion1_05.png', alt='' style="width: 150px")        
       .row(titulo="Chinche de encaje (<i>Leptopharsa gibbicarina</i>)")
-          .col-lg-10.ps-lg-5.mb-4.mb-md-0s  
-            ul.lista-ul
+          .col-lg-10.ps-lg-5.mb-4.mb-md-0s.ps-lg-5  
+            ul.lista-ul.ms-4
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 Ciclo biológico: Huevo: 15 días. Ninfa: 22 días. Adulto: 14 – 24 días. Total:  51 – 61 días.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span Ciclo biológico: huevo: (15 días.), ninfa (22 días), adulto (14-24 días), total (51-61 días).
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 Ninfa: pueden medir 0,5 mm de largo y 0,2 mm de ancho, cuerpo cilíndrico, blanco translúcido. Al avanzar su desarrollo, las espinas que posee sobre su cuerpo se vuelven negras, gruesas y abundantes; sufren cinco instares ninfales, y las del último instar pueden medir 1,8 mm de largo y 0,8 mm de ancho.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span Ninfa: pueden medir 0,5 mm de largo y 0,2 mm de ancho, cuerpo cilíndrico, blanco translúcido. Al avanzar su desarrollo, las espinas que posee sobre su cuerpo se vuelven negras, gruesas y abundantes; sufren cinco instares ninfales, y las del último instar pueden medir 1,8 mm de largo y 0,8 mm de ancho.
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 Adulto: de la familia Tingidae; mide de 2,5 a 2,9 mm de largo y 1,2 mm de ancho, antenas largas claviformes, son reticulados y transparentes; aparentan un encaje muy característico de la familia. Se ubican en el envés de los folíolos, donde pueden cumplir todo un ciclo; prefieren las áreas y niveles con menor incidencia de luz.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span Adulto: de la familia Tingidae; mide de 2,5 a 2,9 mm de largo y 1,2 mm de ancho, antenas largas claviformes, son reticulados y transparentes; aparentan un encaje muy característico de la familia. Se ubican en el envés de los folíolos, donde pueden cumplir todo un ciclo; prefieren las áreas y niveles con menor incidencia de luz.
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 Daños: El adulto pica el envés del folíolo para alimentarse, succionando el jugo celular del parénquima foliar, produciendo unos puntos cloróticos en el haz que ocasionan secamientos o necrosamiento del tejido. 
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span Daños: el adulto pica el envés del folíolo para alimentarse, succionando el jugo celular del parénquima foliar, produciendo unos puntos cloróticos en el haz que ocasionan secamientos o necrosamiento del tejido. 
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 Control: Establecer plantas nectaríferas y promover enemigos naturales como hormigas y otros depredadores, además del uso de hongos entomopatógenos para el control biológico de la plaga.              
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span Control: establecer plantas nectaríferas y promover enemigos naturales como hormigas y otros depredadores, además del uso de hongos entomopatógenos para el control biológico de la plaga.              
           .col-lg-2
             figure
                 img(src='@/assets/curso/tema1/acordion1_06.png', alt='' style="width: 150px")
@@ -461,62 +461,62 @@
     //- Inicio Accordion
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
       .row(titulo="Anillo rojo")
-          .col-lg-10.ps-lg-5.mb-4.mb-md-0s  
-            ul.lista-ul
+          .col-lg-10.ps-lg-5.mb-4.ps-lg-5
+            ul.lista-ul.ms-4
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Agente causal:</b> nemátodo <i>Bursaphelenchus cocophilus</i>, teniendo como agente vector al <i>Rhynchophorus palmarum</i> (coleóptero), este lleva el nemátodo externa o internamente en su cuerpo, ataca la palma, principalmente en tejidos donde se han producido heridas, transmitiendo así la enfermedad.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Agente causal:</b> nemátodo <i>Bursaphelenchus cocophilus</i>, teniendo como agente vector al <i>Rhynchophorus palmarum</i> (coleóptero), este lleva el nemátodo externa o internamente en su cuerpo, ataca la palma, principalmente en tejidos donde se han producido heridas, transmitiendo así la enfermedad.
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Síntomas:</b> La enfermedad provoca amarillamiento y secamiento de hojas, deformaciones en hojas jóvenes, reducción del crecimiento, necrosis progresiva y presencia de un anillo característico en el tronco, afectando también la producción de racimos.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Síntomas:</b> la enfermedad provoca amarillamiento y secamiento de hojas, deformaciones en hojas jóvenes, reducción del crecimiento, necrosis progresiva y presencia de un anillo característico en el tronco, afectando también la producción de racimos.
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Control:</b> monitoreo del cultivo una vez al mes; reducir población del insecto vector mediante el uso de trampas, eliminación oportuna de palmas, realizando un troceado de cada una de sus partes para luego aplicar insecticidas con registro ICA para el cultivo de palma, evitando de esta manera la diseminación del patógeno.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Control:</b> monitoreo del cultivo una vez al mes; reducir población del insecto vector mediante el uso de trampas, eliminación oportuna de palmas, realizando un troceado de cada una de sus partes para luego aplicar insecticidas con registro ICA para el cultivo de palma, evitando de esta manera la diseminación del patógeno.
           .col-lg-2
             figure
                 img(src='@/assets/curso/tema1/acordion2_01.png', alt='' style="width: 150px")
       .row(titulo="Marchitez sorpresiva")
-          .col-lg-10.ps-lg-5.mb-4.mb-md-0s  
-            ul.lista-ul              
+          .col-lg-10.ps-lg-5.mb-4.mb-md-0s.ps-lg-5
+            ul.lista-ul.ms-4       
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Agente causal:</b> protozoarios flagelados de la familia <i>Tripanosomatidae: Phytomonas staheli</i>, el vector es del género <i>Lincus</i> de la familia Pentatomidae <i>(chinches)</i>.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Agente causal:</b> protozoarios flagelados de la familia <i>Tripanosomatidae</i>, como  <i>Phytomonas staheli</i>. El vector es del género <i>Lincus</i>, de la familia Pentatomidae (chinches).
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Síntomas</b>: Los síntomas iniciales incluyen secamiento y coloración rojiza en los folíolos, seguido de enrollamiento y secado de hojas, daño progresivo en raíces, aborto de inflorescencias y secamiento de frutos inmaduros.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Síntomas</b>: los síntomas iniciales incluyen secamiento y coloración rojiza en los folíolos, seguido de enrollamiento y secado de hojas, daño progresivo en raíces, aborto de inflorescencias y secado de frutos inmaduros.
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Control</b>: Aplicar control químico en palmas vecinas, erradicar y desinfectar plantas afectadas, controlar gramíneas, realizar fertilización adecuada y establecer coberturas vegetales para reducir la propagación de la enfermedad.              
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Control</b>: aplicar control químico en palmas vecinas, erradicar y desinfectar plantas afectadas, controlar gramíneas, realizar fertilización adecuada y establecer coberturas vegetales para reducir la propagación de la enfermedad.              
           .col-lg-2
             figure
                 img(src='@/assets/curso/tema1/acordion2_02.png', alt='' style="width: 150px")
       .row(titulo="Marchitez letal (ML)")
-          .col-lg-10.ps-lg-5.mb-4.mb-md-0s  
-            ul.lista-ul
+          .col-lg-10.ps-lg-5.mb-4.mb-md-0s.ps-lg-5  
+            ul.lista-ul.ms-4
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Agente causal:</b> el agente causante de la ML es aún desconocido, sin embargo, se estima que el vector es el insecto chupador<i> Myndus crudus</i> o <i>Haplaxius crudus</i>.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Agente causal:</b> el agente causante de la ML es aún desconocido; sin embargo, se estima que el vector es el insecto chupador<i> Myndus crudus</i> o <i>Haplaxius crudus</i>.
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Síntomas:</b> La enfermedad causa secamiento progresivo de los folíolos, necrosis en inflorescencias y desprendimiento prematuro de frutos debido al daño en su punto de inserción.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Síntomas:</b> la enfermedad causa secamiento progresivo de los folíolos, necrosis en inflorescencias y desprendimiento prematuro de frutos debido al daño en su punto de inserción.
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Control:</b> realizar inspecciones sanitarias mensualmente, para la detección oportuna de los síntomas. Aplicar oportunamente fertilizantes, no retrasar podas, evitar estrés hídrico y uso de herbicidas tóxicos. Monitorear la presencia de <i>Haplaxius crudus</i> con el uso de trampas amarillas y en caso de detectar la enfermedad se debe aplicar insecticida con registro ICA.              
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Control:</b> realizar inspecciones sanitarias mensualmente, para la detección oportuna de los síntomas. Aplicar oportunamente fertilizantes, no retrasar podas, evitar estrés hídrico y uso de herbicidas tóxicos. Monitorear la presencia de <i>Haplaxius crudus</i> con el uso de trampas amarillas, y en caso de detectar la enfermedad, se debe aplicar insecticida con registro ICA.              
           .col-lg-2
             figure
                 img(src='@/assets/curso/tema1/acordion2_03.png', alt='' style="width: 150px")
       .row(titulo="Pudrición del cogollo")
-          .col-lg-10.ps-lg-5.mb-4.mb-md-0s  
-            ul.lista-ul
+          .col-lg-10.ps-lg-5.mb-4.mb-md-0s.ps-lg-5  
+            ul.lista-ul.ms-4
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Agente causal:</b>  hongo patógeno <i>Phytophthora palmivora</i> y las condiciones que favorecen su desarrollo son temperaturas de 27 y 30ºC, alta humedad relativa y baja radiación solar. Se considera una de las enfermedades más devastadoras del cultivo de palma.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Agente causal:</b>  hongo patógeno <i>Phytophthora palmivora</i> y las condiciones que favorecen su desarrollo son temperaturas de 27 y 30 ºC, alta humedad relativa y baja radiación solar. Se considera una de las enfermedades más devastadoras del cultivo de palma.
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Síntomas:</b> La enfermedad inicia en las flechas jóvenes y, en estados avanzados, afecta el cogollo, deteniendo la emisión de nuevas hojas y el crecimiento de la palma.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Síntomas:</b> la enfermedad inicia en las flechas jóvenes y, en estados avanzados, afecta el cogollo, deteniendo la emisión de nuevas hojas y el crecimiento de la palma.
               li.d-flex
-                i.fas.fa-check-circle(style="color:#AD9721").me-3
-                p.mb-0 <b>Control:</b> Detectar y eliminar oportunamente tejidos afectados, proteger el cogollo con tratamientos fitosanitarios y, en casos severos, erradicar y desinfectar las palmas para evitar la propagación de la enfermedad.
+                i.fas.fa-check-circle(style="color:#AD9721")
+                span <b>Control:</b> detectar y eliminar oportunamente tejidos afectados, proteger el cogollo con tratamientos fitosanitarios y, en casos severos, erradicar y desinfectar las palmas para evitar la propagación de la enfermedad.
           .col-lg-2
             figure
                 img(src='@/assets/curso/tema1/acordion2_04.png', alt='' style="width: 150px")
@@ -575,17 +575,17 @@
                     img(src='@/assets/curso/tema1/carrusel1_05.svg' alt='' , style="max-width: 150px").mx-auto.mb-3
                     h4.card-title.text-center.mb-4 Boro
                     p.card-text.text-center
-                      | El boro favorece crecimiento, formación celular y desarrollo foliar.
+                      | El boro favorece el crecimiento, la formación celular y el desarrollo foliar.
                   .bg-color-12.tarjeta.p-4.h-100.shadow-app.text-center.bordes
                     img(src='@/assets/curso/tema1/carrusel1_06.svg' alt='' , style="max-width: 150px").mx-auto.mb-3
                     h4.card-title.text-center.mb-4 Azufre
                     p.card-text.text-center
-                      | El azufre participa en proteínas y crecimiento saludable de la palma.
+                      | El azufre participa en proteínas y en el crecimiento saludable de la palma.
                   .bg-color-12.tarjeta.p-4.h-100.shadow-app.text-center.bordes
                     img(src='@/assets/curso/tema1/carrusel1_07.svg' alt='' , style="max-width: 150px").mx-auto.mb-3
                     h4.card-title.text-center.mb-4 Cloro
                     p.card-text.text-center
-                      | El cloro regula balance hídrico y procesos fisiológicos de la palma.
+                      | El cloro regula el balance hídrico y los procesos fisiológicos de la palma.
                   .bg-color-12.tarjeta.p-4.h-100.shadow-app.text-center.bordes
                     img(src='@/assets/curso/tema1/carrusel1_08.svg' alt='' , style="max-width: 150px").mx-auto.mb-3
                     h4.card-title.text-center.mb-4 Calcio
@@ -610,15 +610,15 @@
                     img(src='@/assets/curso/tema1/carrusel1_12.svg' alt='' , style="max-width: 150px").mx-auto.mb-3
                     h4.card-title.text-center.mb-4 Zinc
                     p.card-text.text-center
-                      | El zinc regula crecimiento y formación de hojas en palma.
+                      | El zinc regula el crecimiento y formación de hojas en palma.
                   .bg-color-12.tarjeta.p-4.h-100.shadow-app.text-center.bordes
                     img(src='@/assets/curso/tema1/carrusel1_13.svg' alt='' , style="max-width: 150px").mx-auto.mb-3
                     h4.card-title.text-center.mb-4 Sodio
                     p.card-text.text-center
-                      | El sodio contribuye al equilibrio osmótico y eficiencia nutricional.
+                      | El sodio contribuye al equilibrio osmótico y a la eficiencia nutricional.
                   .bg-color-12.tarjeta.p-4.h-100.shadow-app.text-center.bordes
                     img(src='@/assets/curso/tema1/carrusel1_14.svg' alt='' , style="max-width: 150px").mx-auto.mb-3
-                    h4.card-title.text-center.mb-4 Molibdenio
+                    h4.card-title.text-center.mb-4 Molibdeno
                     p.card-text.text-center
                       | El molibdeno favorece la asimilación del nitrógeno en la palma.
           //- Fin Carrusel
@@ -641,32 +641,32 @@
                       img(src="@/assets/curso/tema1/slide3_01.svg" , style="max-width: 150px").mx-auto
                   .col-lg-7.order-1.mb-3.mb-lg-0
                     h4 Deficiencia de Fósforo
-                    p <b>Función:</b> Estimula el desarrollo radicular, participa en procesos energéticos y celulares, favorece la producción y mejora la calidad del fruto y la formación de semillas.
-                    p <b>Deficiencia:</b> Provoca crecimiento piramidal del tronco, coloración violeta en coberturas, escaso desarrollo radicular y abortos florales.                    
+                    p <b>Función:</b> estimula el desarrollo radicular, participa en procesos energéticos y celulares, favorece la producción y mejora la calidad del fruto y la formación de semillas.
+                    p <b>Deficiencia:</b> provoca crecimiento piramidal del tronco, coloración violeta en coberturas, escaso desarrollo radicular y abortos florales.                    
                 .row.align-items-center.p-4.p-md-5
                   .col-lg-5.order-2
                     figure
                       img(src="@/assets/curso/tema1/slide3_02.svg" , style="max-width: 150px").mx-auto
                   .col-lg-7.order-1.mb-3.mb-lg-0
                     h4 Deficiencia de potasio
-                    p <b>Función:</b> Estimula la floración, reduce abortos, mejora la resistencia a enfermedades y sequías, e influye en el peso del racimo.
-                    p <b>Deficiencia:</b> Provoca manchas anaranjadas en hojas, reducción del peso de racimos, frutos deformes y debilitamiento progresivo que puede causar la muerte de la palma.
+                    p <b>Función:</b> estimula la floración, reduce abortos, mejora la resistencia a enfermedades y sequías, e influye en el peso del racimo.
+                    p <b>Deficiencia:</b> provoca manchas anaranjadas en hojas, reducción del peso de racimos, frutos deformes y debilitamiento progresivo que puede causar la muerte de la palma.
                 .row.align-items-center.p-4.p-md-5
                   .col-lg-5.order-2
                     figure
                       img(src="@/assets/curso/tema1/slide3_03.svg" , style="max-width: 150px").mx-auto
                   .col-lg-7.order-1.mb-3.mb-lg-0
                     h4 Deficiencia de magnesio
-                    p <b>Función:</b> Es componente de la clorofila, participa en la fotosíntesis, respiración y procesos metabólicos relacionados con fósforo y potasio.
-                    p <b>Deficiencia:</b> Provoca amarillamiento de hojas inferiores, disminución del contenido de aceite y decoloración en folíolos expuestos a la luz, mientras los inferiores permanecen verdes.
+                    p <b>Función:</b> es componente de la clorofila, participa en la fotosíntesis, respiración y procesos metabólicos relacionados con fósforo y potasio.
+                    p <b>Deficiencia:</b> provoca amarillamiento de hojas inferiores, disminución del contenido de aceite y decoloración en folíolos expuestos a la luz, mientras los inferiores permanecen verdes.
                 .row.align-items-center.p-4.p-md-5
                   .col-lg-5.order-2
                     figure
                       img(src="@/assets/curso/tema1/slide3_04.svg" , style="max-width: 150px").mx-auto
                   .col-lg-7.order-1.mb-3.mb-lg-0
                     h4 Deficiencia de boro
-                    p <b>Función:</b> Actúa en los puntos de crecimiento, favorece la polinización y formación de frutos, y participa en la elongación radicular y formación de paredes celulares.
-                    p <b>Deficiencia:</b> Provoca deformación y quiebre de folíolos, reducción del tamaño de hojas, hojas ciegas y corrugaciones severas en casos avanzados de deficiencia de boro.
+                    p <b>Función:</b> actúa en los puntos de crecimiento, favorece la polinización y formación de frutos, y participa en la elongación radicular y formación de paredes celulares.
+                    p <b>Deficiencia:</b> provoca deformación y quiebre de folíolos, reducción del tamaño de hojas, hojas ciegas y corrugaciones severas en casos avanzados de deficiencia de boro.
     //- Fin Carrusel
     //- Fin Tema1.3
     Separador
@@ -695,7 +695,7 @@
               //- Inicio Accordion
               AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
                 .row(titulo="¿Qué es?")
-                  p La poda en palma de aceite consiste en eliminar hojas y estructuras no funcionales para mantener la capacidad fotosintética, facilitar la cosecha, mejorar la sanidad del cultivo, favorecer la producción y aportar materia orgánica al suelo.                  
+                  p La poda en palma de aceite consiste en eliminar hojas y estructuras no funcionales para mantener la capacidad fotosintética, facilitar la cosecha, mejorar la sanidad del cultivo, favorecer la producción y aportar materia orgánica al suelo.
                 .row(titulo="Herramientas")
                   p La poda utiliza herramientas como palines, barretones y cuchillo malayo, seleccionadas según la edad y altura de la palma, además de machetes, limas y rastrillos para corte, mantenimiento y limpieza.
                 .row(titulo="Procedimiento")

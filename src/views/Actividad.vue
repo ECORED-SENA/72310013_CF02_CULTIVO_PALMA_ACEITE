@@ -20,7 +20,7 @@ export default {
       tema: 'Microcontroladores y sensores',
       titulo: 'Cuestionario',
       introduccion:
-        'Fortalecer los conocimientos sobre la gestión del cultivo de palma de aceite mediante la ejecución adecuada de labores mantenimiento y una cosecha planificada, técnica y oportuna, garantizando óptimo desarrollo, productividad, calidad del fruto y eficiencia operativa, bajo criterios ambientales, sociales y económicos sostenibles.',
+        'Fortalecer los conocimientos sobre la gestión del cultivo de palma de aceite mediante la ejecución adecuada de labores de mantenimiento y una cosecha planificada, técnica y oportuna, garantizando óptimo desarrollo, productividad, calidad del fruto y eficiencia operativa, bajo criterios ambientales, sociales y económicos sostenibles.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
@@ -508,7 +508,8 @@ export default {
         },
         {
           id: 16,
-          texto: '¿Cuál es una práctica adecuada en el control de calidad del proceso?',
+          texto:
+            '¿Cuál es una práctica adecuada en el control de calidad del proceso?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -538,7 +539,8 @@ export default {
         },
         {
           id: 17,
-          texto: '¿Qué se debe evitar durante la cosecha para mantener la calidad del fruto?',
+          texto:
+            '¿Qué se debe evitar durante la cosecha para mantener la calidad del fruto?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -598,7 +600,8 @@ export default {
         },
         {
           id: 19,
-          texto: '¿Qué característica tiene el transporte realizado por el hombre?',
+          texto:
+            '¿Qué característica tiene el transporte realizado por el hombre?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -628,7 +631,8 @@ export default {
         },
         {
           id: 20,
-          texto: '¿Cuál es una ventaja del uso de tracción animal en la recolección?',
+          texto:
+            '¿Cuál es una ventaja del uso de tracción animal en la recolección?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [

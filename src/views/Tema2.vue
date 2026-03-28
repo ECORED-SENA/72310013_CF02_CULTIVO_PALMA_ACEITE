@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 2
-      h1 Cosecha del Fruto de Palma de Aceite
+      h1 Cosecha del fruto de palma de aceite
     .row.mb-5
       .col-lg-9.mb-4.mb-lg-0.bg-color-1.p-4(data-aos="fade-right")
         p.mb-0 La cosecha es la etapa final del cultivo y una de las labores más importantes, ya que de su adecuada planificación depende la cantidad y calidad del aceite producido. Representa entre el 25 % y 30 % de los costos operativos y requiere mano de obra especializada, capacitación, supervisión constante y criterios técnicos para cortar, recolectar y transportar los racimos en su punto óptimo de maduración, evitando errores que afecten la productividad.
@@ -106,7 +106,7 @@
                       img(src="@/assets/curso/tema2/slide1_02.png")
                   .col-lg-7.order-1.mb-3.mb-lg-0
                     h4 Racimo maduro
-                    p Estado óptimo de madurez, presenta del 1 a 50% del fruto suelto, se evidencia desprendimiento natural de frutos, color rojo anaranjado brillante, cabe resaltar que el color del fruto depende en gran medida de la variedad sembrada.
+                    p Estado óptimo de madurez, presenta del 1 al 50 % del fruto suelto; se evidencia desprendimiento natural de frutos, color rojo anaranjado brillante; cabe resaltar que el color del fruto depende en gran medida de la variedad sembrada.
                 .row.align-items-center.p-4.p-md-5
                   .col-lg-5.order-2
                     figure
@@ -120,7 +120,7 @@
                       img(src="@/assets/curso/tema2/slide1_04.png")
                   .col-lg-7.order-1.mb-3.mb-lg-0
                     h4 Racimo podrido
-                    p Se caracteriza porque presenta el pedúnculo largo con síntomas de descomposición, el color del fruto es café negruzco opaco, se evidencia desprendimiento de más del 90% de sus frutos.
+                    p Se caracteriza porque presenta el pedúnculo largo con síntomas de descomposición; el color del fruto es café negruzco opaco; se evidencia desprendimiento de más del 90 % de sus frutos.
     //- Carrusel
     Separador
     //- Fin Tema2.2
@@ -150,21 +150,21 @@
                   img(src='@/assets/curso/tema2/tarjeta1_01.png', alt='').w-100
                 .p-4
                   h4.card-title.text-center.mb-4 La edad del cultivo
-                  p.mb-0 En palmas menores de seis años la velocidad de formación de ácidos grasos (lipogénesis), es mayor, por lo que se recomienda ciclos de 8 a 10 días. En palmas mayores de seis años, la lipogénesis decrece con el tiempo, y por esta razón los ciclos de cosecha deben ser entre 10 a 15 días de intervalo.
+                  p.mb-0 En palmas menores de seis años, la velocidad de formación de ácidos grasos (lipogénesis), es mayor, por lo que se recomienda ciclos de 8 a 10 días. En palmas mayores de seis años, la lipogénesis decrece con el tiempo, y por esta razón los ciclos de cosecha deben ser entre 10 a 15 días de intervalo.
             .col-sm-10.col-md-6.col-lg-4.mb-4.d-flex.flex-column
               .tarjeta.p-0.rounded-5.h-100.bg-color-13.overflow-hidden
                 figure.mb-0
                   img(src='@/assets/curso/tema2/tarjeta1_02.png', alt='').w-100
                 .p-4
                   h4.card-title.text-center.mb-4 El material vegetal sembrado
-                  p.mb-0 El material “dura” cruzado con “tenera” es más rápida la maduración y en cambio el material “dura” cruzado con “dura” es un poco más lenta.
+                  p.mb-0 El material “dura” cruzado con “tenera” tiene más rápida la maduración y, en cambio el material “dura” cruzado con “dura” es un poco más lento.
             .col-sm-10.col-md-6.col-lg-4.mb-4.d-flex.flex-column
               .tarjeta.p-0.rounded-5.h-100.bg-color-13.overflow-hidden
                 figure.mb-0
                   img(src='@/assets/curso/tema2/tarjeta1_03.png', alt='').w-100
                 .p-4
                   h4.card-title.text-center.mb-4 Época del año
-                  p.mb-0 En la época de verano la maduración es más lenta, lo cual permite tener ciclos más largos, mientras que en épocas lluviosas la maduración se acelera.
+                  p.mb-0 En la época de verano, la maduración es más lenta, lo cual permite tener ciclos más largos, mientras que en épocas lluviosas la maduración se acelera.
           //- Fin Tarjetas
           //- Fin Tema2.4
           Separador
@@ -181,14 +181,14 @@
                   img(src='@/assets/curso/tema2/tarjeta2_01.png', alt='').w-100
                 .p-4
                   h4.card-title.text-center.mb-4 Cincel
-                  p.mb-0 Las cosechas en palma joven se realizan con una herramienta tipo cincel, la cual permite cortar solo el pedúnculo del racimo, sin cortar la hoja que lo sostiene. Este cincel consta de una cuchilla que mide entre 6 y 8 cm de ancho, unido a un tubo o mango de 1.5 metros; en palmas más altas, se utiliza un tubo de mayor longitud.
+                  p.mb-0 Las cosechas en palma joven se realizan con una herramienta tipo cincel, la cual permite cortar solo el pedúnculo del racimo, sin cortar la hoja que lo sostiene. Este cincel consta de una cuchilla que mide entre 6 y 8 cm de ancho, unida a un tubo o mango de 1.5 metros; en palmas más altas, se utiliza un tubo de mayor longitud.
             .col-sm-10.col-md-6.col-lg-4.mb-4.d-flex.flex-column
               .tarjeta.p-0.rounded-5.h-100.bg-color-7.overflow-hidden
                 figure.mb-0
                   img(src='@/assets/curso/tema2/tarjeta2_02.png', alt='').w-100
                 .p-4
                   h4.card-title.text-center.mb-4 Chuza
-                  p.mb-0 Cuando los racimos alcanzan una altura de 1 metro sobre el nivel del suelo, se utiliza la chuza de 14 centímetros de ancho anexada a tubos largos lo que permite cosechar racimos ubicados hasta una altura aproximada de 3 a 4 metros. En esta altura también es común el uso del palín.
+                  p.mb-0 Cuando los racimos alcanzan una altura de 1 metro sobre el nivel del suelo, se utiliza la chuza de 14 centímetros de ancho anexada a tubos largos lo que permite cosechar racimos ubicados hasta una altura aproximada de 3 a 4 metros. A esta altura también es común el uso del palín.
 
             .col-sm-10.col-md-6.col-lg-4.mb-4.d-flex.flex-column
               .tarjeta.p-0.rounded-5.h-100.bg-color-7.overflow-hidden
@@ -196,7 +196,7 @@
                   img(src='@/assets/curso/tema2/tarjeta2_03.png', alt='').w-100
                 .p-4
                   h4.card-title.text-center.mb-4 Cuchillo malayo
-                  p.mb-0 Cuando los racimos se encuentran localizados a más de 4 metros, se utiliza un cuchillo curvo llamado malayo, el cual se ata a una varilla de aluminio o de bambú, que se reemplaza gradualmente dependiendo del desarrollo de las palmas; permitiendo cosechar palmas hasta de 12 metros de altura.
+                  p.mb-0 Cuando los racimos se encuentran localizados a más de 4 metros, se utiliza un cuchillo curvo llamado malayo, el cual se ata a una varilla de aluminio o de bambú, que se reemplaza gradualmente dependiendo del desarrollo de las palmas, permitiendo cosechar palmas hasta de 12 metros de altura.
           //- Fin Tarjetas
     Separador
     //- Inicio Tema2.6
@@ -217,7 +217,7 @@
           .row.mt-0
               #t_2_7.titulo-segundo.color-acento-contenido(data-aos="fade-right")
                 h2 2.7 Control de calidad del proceso
-          p(data-aos="fade-left") Es indispensable llevar a cabo un control de calidad del proceso de cosecha, que permitan mantener la calidad del fruto y evitar pérdidas económicas. A continuación, se presentan los principales controles que se deben tener en cuenta.
+          p(data-aos="fade-left") Es indispensable llevar a cabo un control de calidad del proceso de cosecha, que permita mantener la calidad del fruto y evitar pérdidas económicas. A continuación, se presentan los principales controles que se deben tener en cuenta.
           .container-fluid.p-0
             .row.g-0.align-items-stretch
               .col-md-4.mb-3
@@ -228,7 +228,7 @@
                   li.d-flex.mb-3 
                     .lista-ol--cuadro__vineta
                       span A
-                    | Realizar el corte sólo de las hojas necesarias.
+                    | Realizar el corte solo de las hojas necesarias.
                   li.d-flex 
                     .lista-ol--cuadro__vineta
                       span B

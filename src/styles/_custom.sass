@@ -222,6 +222,15 @@ figcaption
 .acordion__accion__btn--a
   background-color: #C92A2A !important
 
+
+.acordeonA
+  position: relative  
+  width: 100%
+  @media screen and (max-width: 1200px)
+    width: 100%
+  p
+    padding-left: 4.0rem
+
 /*Fin Accordion*/
 
 /*Letras carrusel*/
@@ -248,3 +257,21 @@ figcaption
   margin-bottom: 0
 
 /*Letras carrusel*/
+
+
+
+/* Ajuste para botones de Slider en Móviles */
+@media (max-width: $bp-max-sm)
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs
+    width: 35px !important // Reduce el tamaño del círculo
+    height: 35px !important
+    background-size: 10px !important // Ajusta el tamaño de la flecha interna
+    opacity: 1 !important
+  
+  .slyder-a__bullets__item
+    width: 10px !important // Hace los puntos de navegación más pequeños
+    height: 10px !important
+    margin: 0 4px !important
+
+  .slyder-a__bullets
+    bottom: 10px !important // Los sube un poco para que no se corten
