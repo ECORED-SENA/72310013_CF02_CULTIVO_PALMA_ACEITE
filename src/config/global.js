@@ -1,7 +1,7 @@
 export default {
   global: {
     Name:
-      'Cultivo de palma de aceite: mantenimiento del cultivo y cosecha del fruto.',
+      'Cultivo de palma de aceite: mantenimiento del cultivo y cosecha del fruto',
     Description:
       'En este componente formativo, el aprendiz conocerá cómo realizar control de malezas, manejo integrado de plagas y enfermedades, nutrición, riego y poda, así como los criterios de madurez, frecuencia de cosecha, herramientas, pronósticos de producción y sistemas de transporte. Además, incluyen descripciones de plagas, enfermedades y prácticas para garantizar productividad, calidad del fruto y sostenibilidad del cultivo.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
@@ -37,7 +37,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Mantenimiento del Cultivo de Palma de Aceite',
+        titulo: 'Mantenimiento del cultivo de palma de aceite',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -71,7 +71,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Cosecha del Fruto de Palma de Aceite',
+        titulo: 'Cosecha del fruto de palma de aceite',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -396,12 +396,12 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Líder del Ecosistema',
+          cargo: 'Líder del ecosistema',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Olga Constanza Bermúdez',
-          cargo: 'Responsable de Línea de Producción Huila',
+          cargo: 'Responsable de línea de producción Huila',
           centro: 'Dirección General',
         },
       ],

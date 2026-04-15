@@ -428,7 +428,7 @@ export default {
             },
             {
               id: 'b',
-              texto: 'El 5% de las palmas del lote.',
+              texto: 'El 5 % de las palmas del lote.',
               esCorrecta: true,
             },
             {

@@ -8,7 +8,7 @@
       h1 Cosecha del fruto de palma de aceite
     .row.mb-5
       .col-lg-9.mb-4.mb-lg-0.bg-color-1.p-4(data-aos="fade-right")
-        p.mb-0 La cosecha es la etapa final del cultivo y una de las labores más importantes, ya que de su adecuada planificación depende la cantidad y calidad del aceite producido. Representa entre el 25 % y 30 % de los costos operativos y requiere mano de obra especializada, capacitación, supervisión constante y criterios técnicos para cortar, recolectar y transportar los racimos en su punto óptimo de maduración, evitando errores que afecten la productividad.
+        p.mb-0 La cosecha es la etapa final del cultivo y una de las labores más importantes, ya que de su adecuada planificación depende la cantidad y calidad del aceite producido. Representa entre el 25 % y el 30 % de los costos operativos y requiere mano de obra especializada, capacitación, supervisión constante y criterios técnicos para cortar, recolectar y transportar los racimos en su punto óptimo de maduración, evitando errores que afecten la productividad.
       .col-lg-3(data-aos="fade-left")
         figure
           img(src="@/assets/curso/tema2/1.png", alt="", style="width: 450px").m-auto
@@ -113,7 +113,7 @@
                       img(src="@/assets/curso/tema2/slide1_03.png")
                   .col-lg-7.order-1.mb-3.mb-lg-0
                     h4 Racimo sobre maduro
-                    p Presenta más del 50% de frutos desprendidos, su color es rojo oscuro o naranja intenso.
+                    p Presenta más del 50 % de frutos desprendidos, su color es rojo oscuro o naranja intenso.
                 .row.align-items-center.p-4.p-md-5
                   .col-lg-5.order-2
                     figure
@@ -128,7 +128,7 @@
     .row.mt-0
         #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 2.3 Pronósticos de producción
-    p(data-aos="fade-left") Los pronósticos de producción son estimativos en kilos o toneladas de la producción futura y por su importancia, lo invitamos a conocer todos los detalles en siguiente video.    
+    p(data-aos="fade-left") Los pronósticos de producción son estimativos en kilos o toneladas de la producción futura y, por su importancia, lo invitamos a conocer todos los detalles en el siguiente video.    
     figure.mb-5(data-aos="fade-down")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/20jQyrikvmM?si=_5DjGIsDjzgnf7Sa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -150,14 +150,14 @@
                   img(src='@/assets/curso/tema2/tarjeta1_01.png', alt='').w-100
                 .p-4
                   h4.card-title.text-center.mb-4 La edad del cultivo
-                  p.mb-0 En palmas menores de seis años, la velocidad de formación de ácidos grasos (lipogénesis), es mayor, por lo que se recomienda ciclos de 8 a 10 días. En palmas mayores de seis años, la lipogénesis decrece con el tiempo, y por esta razón los ciclos de cosecha deben ser entre 10 a 15 días de intervalo.
+                  p.mb-0 En palmas menores de seis años, la velocidad de formación de ácidos grasos (lipogénesis) es mayor, por lo que se recomienda ciclos de 8 a 10 días. En palmas mayores de seis años, la lipogénesis decrece con el tiempo, y por esta razón los ciclos de cosecha deben ser de entre 10 a 15 días de intervalo.
             .col-sm-10.col-md-6.col-lg-4.mb-4.d-flex.flex-column
               .tarjeta.p-0.rounded-5.h-100.bg-color-13.overflow-hidden
                 figure.mb-0
                   img(src='@/assets/curso/tema2/tarjeta1_02.png', alt='').w-100
                 .p-4
                   h4.card-title.text-center.mb-4 El material vegetal sembrado
-                  p.mb-0 El material “dura” cruzado con “tenera” tiene más rápida la maduración y, en cambio el material “dura” cruzado con “dura” es un poco más lento.
+                  p.mb-0 El material “dura” cruzado con “tenera” tiene más rápida la maduración y, en cambio, el material “dura” cruzado con “dura” es un poco más lento.
             .col-sm-10.col-md-6.col-lg-4.mb-4.d-flex.flex-column
               .tarjeta.p-0.rounded-5.h-100.bg-color-13.overflow-hidden
                 figure.mb-0
@@ -188,7 +188,7 @@
                   img(src='@/assets/curso/tema2/tarjeta2_02.png', alt='').w-100
                 .p-4
                   h4.card-title.text-center.mb-4 Chuza
-                  p.mb-0 Cuando los racimos alcanzan una altura de 1 metro sobre el nivel del suelo, se utiliza la chuza de 14 centímetros de ancho anexada a tubos largos lo que permite cosechar racimos ubicados hasta una altura aproximada de 3 a 4 metros. A esta altura también es común el uso del palín.
+                  p.mb-0 Cuando los racimos alcanzan una altura de 1 metro sobre el nivel del suelo, se utiliza la chuza de 14 centímetros de ancho anexada a tubos largos, lo que permite cosechar racimos ubicados hasta una altura aproximada de 3 a 4 metros. A esta altura también es común el uso del palín.
 
             .col-sm-10.col-md-6.col-lg-4.mb-4.d-flex.flex-column
               .tarjeta.p-0.rounded-5.h-100.bg-color-7.overflow-hidden

@@ -465,7 +465,7 @@
             ul.lista-ul.ms-4
               li.d-flex
                 i.fas.fa-check-circle(style="color:#AD9721")
-                span <b>Agente causal:</b> nemátodo <i>Bursaphelenchus cocophilus</i>, teniendo como agente vector al <i>Rhynchophorus palmarum</i> (coleóptero), este lleva el nemátodo externa o internamente en su cuerpo, ataca la palma, principalmente en tejidos donde se han producido heridas, transmitiendo así la enfermedad.
+                span <b>Agente causal:</b> nemátodo <i>Bursaphelenchus cocophilus</i>, teniendo como agente vector al <i>Rhynchophorus palmarum</i> (coleóptero); este lleva el nemátodo externa o internamente en su cuerpo, ataca la palma, principalmente en tejidos donde se han producido heridas, transmitiendo así la enfermedad.
               li.d-flex
                 i.fas.fa-check-circle(style="color:#AD9721")
                 span <b>Síntomas:</b> la enfermedad provoca amarillamiento y secamiento de hojas, deformaciones en hojas jóvenes, reducción del crecimiento, necrosis progresiva y presencia de un anillo característico en el tronco, afectando también la producción de racimos.
