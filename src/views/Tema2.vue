@@ -131,7 +131,7 @@
     p(data-aos="fade-left") Los pronósticos de producción son estimativos en kilos o toneladas de la producción futura y, por su importancia, lo invitamos a conocer todos los detalles en el siguiente video.    
     figure.mb-5(data-aos="fade-down")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/20jQyrikvmM?si=_5DjGIsDjzgnf7Sa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/bX2u0wWUfdw?si=b47fTnBOgVZ3Q00k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     //- Fin Tema2.3
     Separador
     //- Inicio Tema2.4
