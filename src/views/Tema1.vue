@@ -693,7 +693,7 @@
                 img(src="@/assets/curso/tema1/4.png", alt="").img400.m-auto
             .col-lg-9
               //- Inicio Accordion
-              AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
+              AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")
                 .row(titulo="¿Qué es?")
                   p La poda en palma de aceite consiste en eliminar hojas y estructuras no funcionales para mantener la capacidad fotosintética, facilitar la cosecha, mejorar la sanidad del cultivo, favorecer la producción y aportar materia orgánica al suelo.
                 .row(titulo="Herramientas")

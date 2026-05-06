@@ -19,7 +19,7 @@
           )
           .bloque-texto-g__texto.p-4
             p.mb-0 Por su parte, la cosecha constituye la fase final del proceso productivo, en la cual se evidencian los resultados de las prácticas agronómicas implementadas, requiriendo criterios técnicos específicos para identificar el estado óptimo de maduración de los racimos, efectuar un corte adecuado y garantizar una correcta recolección y transporte del fruto hacia la planta de beneficio, aspectos determinantes para la calidad del aceite y la rentabilidad de la plantación.    
-    .row.mb-5.align-items-center
+    .row.align-items-center
       .col-10.bg-color-3.p-4(data-aos="fade-right")
         p En conjunto, el mantenimiento y la cosecha se consideran etapas complementarias e indispensables que, mediante una adecuada planificación y supervisión técnica, permiten alcanzar una producción sostenible, eficiente y ambientalmente responsable.
       .col-2.bg-color-4.d-none.d-xl-block
