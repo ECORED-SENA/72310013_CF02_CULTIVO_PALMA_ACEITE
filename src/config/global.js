@@ -321,8 +321,6 @@ export default {
     {
       referencia:
         'Bustillo, A. (2014). Manejo de insectos plagas de la palma de aceite, con énfasis en control biológico y sus relaciones con el cambio climático. Bogotá.',
-      link:
-        'https://repositorio.fedepalma.org/bitstream/handle/123456789/107659/Guia%20enfermedades%20y%20plagas%2022.pdf?sequence=11',
     },
     {
       referencia:
@@ -349,12 +347,10 @@ export default {
     {
       referencia:
         'Instituto Colombiano Agropecuario (ICA). (s. f.). Normatividad fitosanitaria vigente para el sector agrícola colombiano.',
-      link: 'https://www.ica.gov.co',
     },
     {
       referencia:
         'Instituto Colombiano Agropecuario (ICA). (s. f.). Registro y uso responsable de plaguicidas de uso agrícola en Colombia.',
-      link: 'https://www.ica.gov.co',
     },
     {
       referencia:
